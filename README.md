@@ -4,6 +4,7 @@ A ideia é implementar um programa que facilite a vida do administrador e do cli
 facilitando as rotas. abaixo citaremos algumas funcionalidades para cada:
 
 Administrador:
+
     • Controle de Estoque
     • Controle de Vendas
     • Fluxo de saídas
@@ -13,6 +14,7 @@ Administrador:
     • Encaminhamento de clientes whatsapp, em caso de dúvidas ou imprevistos.
 
 Cliente:
+
     • Facilidade para realizar pedido
     • Não necessita esperar que o estabelecimento responda, faz o pedido diretamente pelo programa
     • Visualização de todo o cardápio
