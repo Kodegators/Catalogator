@@ -20,4 +20,4 @@ Cliente:
     • Acrescentar observações em seus pedidos, para que chegue da maneira ideal ao cliente
     • Seleção de opção de pagamento
 
-Entre diversas coisas que serão acrescentadas ao desenvolver do projeto."# Catalogator" 
+Entre diversas coisas que serão acrescentadas ao desenvolver do projeto.
