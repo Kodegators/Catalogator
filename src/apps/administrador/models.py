@@ -1,8 +1,10 @@
 from django.db import models
 
+
 # Create your models here.
 class Generos(models.Model):
     genero = models.CharField('Nome', max_length=100)
+
 
 class Itens(models.Model):
     nome = models.CharField('Nome', max_length=200)
