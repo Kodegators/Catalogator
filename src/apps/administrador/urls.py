@@ -6,5 +6,5 @@ app_name = 'administrador'
 
 urlpatterns = [
     path('', views.index, name='base'),
-    path('produtos', views.produtos, name="produtos"),
+    path('produtos/', views.produtos, name="produtos"),
 ]
